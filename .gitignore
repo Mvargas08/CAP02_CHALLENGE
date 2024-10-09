@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Entorno virtual
+venv/
+ENV/
+env/
+.venv/
+
+# Archivos de configuración del entorno
+.env
+.env.*
+
+# Pytest cache
+.pytest_cache/
+
+# Archivos de logs
+*.log
+
+# Archivos de desarrollo (IDE específicos)
+.vscode/
+.idea/
